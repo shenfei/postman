@@ -1,0 +1,6 @@
+mailgun:
+    api_url: 'your-api-url'
+    api_key: 'your-key'
+
+from_addr: 'Your Name <your.name@host.name>'
+to_addr: 'to_addr'
