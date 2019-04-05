@@ -102,4 +102,5 @@ ENV/
 
 # custom ignore files
 config.yml
+config.*.yml
 drafts/

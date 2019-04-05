@@ -4,3 +4,5 @@ mailgun:
 
 from_addr: 'Your Name <your.name@host.name>'
 to_addr: 'to_addr'
+
+subject: 'Your Fun Newsletter #{}'
